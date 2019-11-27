@@ -1,3 +1,4 @@
 # clone
 dev and master
-ghost
+no conflict or collide
+
